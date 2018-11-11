@@ -1,0 +1,8 @@
+{
+  "status": "INVALID_PARAMETERS",
+  "result": "null",
+  "errors": {
+    "global": "パラメータが不正です。",
+    "fields": "null"
+  }
+}
